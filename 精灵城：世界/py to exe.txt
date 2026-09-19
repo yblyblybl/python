@@ -1,0 +1,2 @@
+cd C:\python\python3132\精灵城：世界
+pyinstaller -F 创建玩家.py
